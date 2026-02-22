@@ -8,8 +8,6 @@ This project demonstrates the full analytics lifecycle — from raw Excel/CSV in
 
 The dashboard enables data-driven marketing decisions by analyzing:
 
----
-
 Channel performance
 
 Campaign profitability
@@ -52,7 +50,6 @@ Conversion efficiency
 
 ###
 🔹1) Data Ingestion (Excel → SQL Server):
-Performed:
 
 *Structured relational table creation
 
@@ -64,8 +61,6 @@ Performed:
 
 ###
 🔹2) Data Transformation (SQL):
-
-Performed:
 
 *Channel-wise revenue aggregation
 
@@ -98,8 +93,6 @@ Performed:
 
 ###
 🔹4) Business Intelligence (Power BI):
-📌 KPI Overview
-
 *Total Revenue – 
 Measures overall marketing-driven income generation
 
