@@ -169,7 +169,7 @@ Determines cost efficiency
 
 ## 📊 Business Value & Impact Potential:
 
-1) Budget Optimization-
+1)Budget Optimization-
 
 Reallocating spend toward high-performing channels could improve ROI by 8–12%.
 
