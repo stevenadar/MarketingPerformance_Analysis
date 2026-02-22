@@ -93,6 +93,7 @@ Conversion efficiency
 
 ###
 🔹4) Business Intelligence (Power BI):
+
 *Total Revenue – 
 Measures overall marketing-driven income generation
 
